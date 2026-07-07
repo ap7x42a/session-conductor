@@ -1,0 +1,4 @@
+interface:
+  display_name: "Session Conductor"
+  short_description: "Coordinate substantial agent sessions with delegation, review, receipts, and handoff."
+  default_prompt: "Use Session Conductor to keep judgment in the main session, delegate bounded work only when available, verify receipts, and write handoff state at human-needed boundaries."
